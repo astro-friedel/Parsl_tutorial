@@ -122,3 +122,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.~lock.presentation.odp#
+
+parsl-code.png
+
+*.odp
