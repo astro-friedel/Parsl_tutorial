@@ -1,0 +1,5 @@
+parsl
+scikit-image
+scipy
+astropy
+pandas
